@@ -12,7 +12,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 Passo a Passo<br/>
 
 * Clone o repositório<br/>
-* digite no terminal "npm i" para baixar ou atulizar a pasta node_moduless<br/>
+* digite no terminal "npm i" para baixar ou atulizar a pasta node_modules<br/>
 *  digite no terminal "npm run start" para rodar a aplicação<br/>
 
 ## 🛠️ Tecnologias utilizadas
